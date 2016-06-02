@@ -1,0 +1,29 @@
+{
+  "name": "maki-client-traverse",
+  "version": "0.1.0",
+  "description": "Injects an asynchronous graph traversal function to Maki clients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martindale/maki-traverse-async.git"
+  },
+  "keywords": [
+    "maki",
+    "plugin",
+    "async",
+    "traverse",
+    "framework"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/maki-traverse-async/issues"
+  },
+  "homepage": "https://github.com/martindale/maki-traverse-async",
+  "dependencies": {
+    "traverse-async": "^0.1.6"
+  }
+}
